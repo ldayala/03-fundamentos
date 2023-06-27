@@ -23,7 +23,7 @@ describe("Counter Componet", () => {
     expect(h2Value).toBe("Counter");
   });
 
-  test("El valor por defecto debe ser 100 en el elemento p", () => {
+  test("El valor por defecto debe ser 100 en el elemento p ss", () => {
     //wrapper
     
 

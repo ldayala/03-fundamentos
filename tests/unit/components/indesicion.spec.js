@@ -19,7 +19,7 @@ describe("Indesicion Component", () => {
 
     beforeEach(() => {
       wrapper = shallowMount(Indesicion);
-      //creo un espia para que me este espiando dentro del obj console el metodo log
+      //creo un espia para que me este espiando dentro dsssel obj console el metodo log
       clgSpy = jest.spyOn(console, "log");
       jest.clearAllMocks(); // limpiamos todos los mocks
     });
